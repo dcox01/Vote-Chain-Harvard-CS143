@@ -3,7 +3,7 @@ Here is described a secure election system we devised based on block-chain techn
 
 ### Authors
 
-Daniel Cox
-Chiara Darnton
-Chistopher Kinyua
+Daniel Cox   
+Chiara Darnton   
+Chistopher Kinyua   
 Mahdy Al Majed Yassine
